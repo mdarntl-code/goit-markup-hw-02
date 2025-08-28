@@ -15,7 +15,6 @@ a {
 
 /* Header */
 
-.header {}
 
 .header-logo {
     font-family: "Raleway", sans-serif;
@@ -35,11 +34,6 @@ a {
     color: #f4f4fd;
 }
 
-.header-navigation {}
-
-.header-menu-list {}
-
-.header-menu-item {}
 
 .header-menu-link {
     font-weight: 500;
@@ -53,9 +47,6 @@ a {
     font-style: normal;
 }
 
-.header-contacts-list {}
-
-.header-contacts-item {}
 
 .header-contacts-link {
     font-size: 16px;
@@ -145,42 +136,6 @@ a {
     color: #2e2f42;
 }
 
-.features {}
-
-.features-title {}
-
-.features-list {}
-
-.features-item {}
-
-.features-subtitle {}
-
-.feature-description {}
-
-.team {}
-
-.team-title {}
-
-.team-list {}
-
-.team-item {}
-
-.team-image {}
-
-.team-subtitle {}
-
-.team-description {}
-
-.portfolio {}
-
-.portfolio-title {}
-
-.portfolio-image {}
-
-.portfolio-subtitle {}
-
-.portfolio-description {}
-
 
 /* Footer */
 
@@ -189,9 +144,6 @@ a {
     ;
 }
 
-.footer-link {}
-
-.footer-span {}
 
 .footer-description {
     font-weight: 400;
