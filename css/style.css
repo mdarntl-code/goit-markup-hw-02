@@ -107,7 +107,15 @@ a {
     background-color: #404bbf;
 }
 
+/* Team */
 
+.team{
+    background-color: #F4F4FD
+}
+
+.team-list{
+    background-color: #FFFFFF
+}
 /* Features */
 
 .one-subtitle {
